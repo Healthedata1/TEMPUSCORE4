@@ -1,8 +1,8 @@
 {
   "resourceType" : "Bundle",
-  "id" : "4c5b7022-a812-4ffe-8e55-61904ff81054",
+  "id" : "46398253-b59b-4f64-b1be-2d67c53b4777",
   "meta" : {
-    "lastUpdated" : "2018-11-12T10:22:30.383-08:00"
+    "lastUpdated" : "2018-11-12T13:42:01.431-08:00"
   },
   "type" : "collection",
   "entry" : [{
@@ -15896,8 +15896,8 @@
       }],
       "copyright" : "This value set includes content from SNOMED CT, which is copyright © 2002+ International Health Terminology Standards Development Organisation (IHTSDO), and distributed by agreement between IHTSDO and HL7. Implementer use of SNOMED CT is not covered by this agreement",
       "expansion" : {
-        "identifier" : "urn:uuid:6310dc11-d730-4c74-8f9f-e1067071832a",
-        "timestamp" : "2018-11-12T10:23:29-08:00",
+        "identifier" : "urn:uuid:65d8d9db-ac39-4104-a44d-dfb5c827f96e",
+        "timestamp" : "2018-11-12T13:22:26-08:00",
         "total" : 2000,
         "parameter" : [{
           "name" : "excludeNested",
@@ -26014,7 +26014,7 @@
       "name" : "Narrative_Status",
       "title" : "Narrative Status",
       "status" : "active",
-      "date" : "2018-11-12T10:22:30-08:00",
+      "date" : "2018-11-12T13:21:36-08:00",
       "publisher" : "HL7 US Realm Steering Committee",
       "contact" : [{
         "telecom" : [{
@@ -26032,8 +26032,8 @@
       }],
       "copyright" : "HL7",
       "expansion" : {
-        "identifier" : "urn:uuid:eca3fa7e-537e-4821-9b11-60efbbd09bd3",
-        "timestamp" : "2018-11-12T10:23:30-08:00",
+        "identifier" : "urn:uuid:073b1a9d-a768-47fa-87df-9b07c686ef6c",
+        "timestamp" : "2018-11-12T13:22:26-08:00",
         "total" : 2,
         "parameter" : [{
           "name" : "excludeNested",
@@ -31112,8 +31112,8 @@
         }]
       }],
       "expansion" : {
-        "identifier" : "urn:uuid:da26d07e-3c6e-4130-a8e4-be02e5de2b7b",
-        "timestamp" : "2018-11-12T10:23:30-08:00",
+        "identifier" : "urn:uuid:13587275-a61d-40ef-a747-485c9436b420",
+        "timestamp" : "2018-11-12T13:22:26-08:00",
         "total" : 2,
         "parameter" : [{
           "name" : "excludeNested",
@@ -32970,8 +32970,8 @@
       }],
       "purpose" : "So API consumers can separate health concerns and problems.",
       "expansion" : {
-        "identifier" : "urn:uuid:d7b6e4a1-b045-4621-993d-2cc75948962a",
-        "timestamp" : "2018-11-12T10:23:30-08:00",
+        "identifier" : "urn:uuid:92e4808c-3f4d-4cf2-ab70-efdc18c861d3",
+        "timestamp" : "2018-11-12T13:22:26-08:00",
         "total" : 3,
         "parameter" : [{
           "name" : "excludeNested",
@@ -33082,8 +33082,8 @@
       "purpose" : "Codes that may be used for implementation of the Argonaut Procedures IG and MU2015 certification.",
       "copyright" : "This value set includes content from SNOMED CT, which is copyright © 2002+ International Health Terminology Standards Development Organisation (IHTSDO), and distributed by agreement between IHTSDO and HL7. Implementer use of SNOMED CT is not covered by this agreement. This value set includes content from NUCC Health Care Provider Taxonomy Code Set for providers which is copyright © 2016+ American Medical Association.  For commercial use, including sales or licensing, a license must be obtained.",
       "expansion" : {
-        "identifier" : "urn:uuid:c7cf06f5-0255-47b1-a514-7e439546ab87",
-        "timestamp" : "2018-11-12T10:23:31-08:00",
+        "identifier" : "urn:uuid:6079a5ea-d00a-4aab-8391-4bfe2a58f15a",
+        "timestamp" : "2018-11-12T13:22:26-08:00",
         "total" : 1390,
         "parameter" : [{
           "name" : "excludeNested",
@@ -40085,8 +40085,8 @@
         }]
       }],
       "expansion" : {
-        "identifier" : "urn:uuid:793cc51a-f525-47ea-952e-ca7ae1e55609",
-        "timestamp" : "2018-11-12T10:23:31-08:00",
+        "identifier" : "urn:uuid:f466af20-9cc3-4c16-a60b-a445031899ab",
+        "timestamp" : "2018-11-12T13:22:26-08:00",
         "total" : 3,
         "parameter" : [{
           "name" : "excludeNested",
@@ -40159,8 +40159,8 @@
         }]
       }],
       "expansion" : {
-        "identifier" : "urn:uuid:9edf588f-4a9d-49b6-91d9-5854b352bfd0",
-        "timestamp" : "2018-11-12T10:23:31-08:00",
+        "identifier" : "urn:uuid:44f9e23f-9e40-448d-a6c3-abcdde5f0b62",
+        "timestamp" : "2018-11-12T13:22:26-08:00",
         "total" : 7,
         "parameter" : [{
           "name" : "excludeNested",
@@ -40237,8 +40237,8 @@
         }]
       }],
       "expansion" : {
-        "identifier" : "urn:uuid:22b5e33a-1f9e-4332-ae58-d35ffe18ac8c",
-        "timestamp" : "2018-11-12T10:23:31-08:00",
+        "identifier" : "urn:uuid:e41dbbd0-d02e-413b-b727-c9a0467ff9b3",
+        "timestamp" : "2018-11-12T13:22:26-08:00",
         "total" : 2,
         "parameter" : [{
           "name" : "excludeNested",
@@ -40286,8 +40286,8 @@
         }]
       }],
       "expansion" : {
-        "identifier" : "urn:uuid:110acf75-a978-43b3-906c-8ed529d8cd2c",
-        "timestamp" : "2018-11-12T10:23:31-08:00",
+        "identifier" : "urn:uuid:75d86781-ff0b-4019-98e9-85392cb76818",
+        "timestamp" : "2018-11-12T13:22:27-08:00",
         "total" : 917,
         "parameter" : [{
           "name" : "excludeNested",
@@ -44910,8 +44910,8 @@
         }]
       }],
       "expansion" : {
-        "identifier" : "urn:uuid:7f25447f-66f9-45af-b10c-3240749bfee6",
-        "timestamp" : "2018-11-12T10:23:31-08:00",
+        "identifier" : "urn:uuid:ae7b3c74-632d-43e2-9558-51188d01e423",
+        "timestamp" : "2018-11-12T13:22:27-08:00",
         "total" : 42,
         "parameter" : [{
           "name" : "excludeNested",

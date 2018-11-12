@@ -3,7 +3,7 @@
   "name": "USCoreR4",
   "package-id": "hl7.fhir.us.core.r4",
   "ig-ver": "2.0.0",
-  "date": "Mon, 12 Nov, 2018 10:22:30 -0800",
+  "date": "Mon, 12 Nov, 2018 13:42:01 -0800",
   "errs": 26,
   "warnings": 204,
   "hints": 0,
