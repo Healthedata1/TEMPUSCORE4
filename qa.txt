@@ -1,0 +1,400 @@
+﻿USCoreR4 : Validation Results
+=========================================
+
+err = 26, warn = 204, info = 0
+Generated Mon Nov 12 10:24:37 PST 2018. FHIR version 3.6.0 for 3.6.0
+
+ Build Errors : 6 / 0
+ /Users/ehaas/Documents/FHIR/US-Core-R4/source/examples/PractitionerRole_Practitioner_Endpoint_Bundle_Example : 0 / 2
+ /Users/ehaas/Documents/FHIR/US-Core-R4/source/examples/acme-lab : 0 / 0
+ /Users/ehaas/Documents/FHIR/US-Core-R4/source/examples/allergyintolerance-example : 2 / 1
+ /Users/ehaas/Documents/FHIR/US-Core-R4/source/examples/blood-glucose : 0 / 0
+ /Users/ehaas/Documents/FHIR/US-Core-R4/source/examples/blood-pressure : 0 / 0
+ /Users/ehaas/Documents/FHIR/US-Core-R4/source/examples/bmi : 0 / 0
+ /Users/ehaas/Documents/FHIR/US-Core-R4/source/examples/bp-data-absent : 0 / 0
+ /Users/ehaas/Documents/FHIR/US-Core-R4/source/examples/bun : 0 / 0
+ /Users/ehaas/Documents/FHIR/US-Core-R4/source/examples/careteam-example : 0 / 4
+ /Users/ehaas/Documents/FHIR/US-Core-R4/source/examples/colonoscopy : 0 / 0
+ /Users/ehaas/Documents/FHIR/US-Core-R4/source/examples/condition-example : 0 / 1
+ /Users/ehaas/Documents/FHIR/US-Core-R4/source/examples/encounter-1036 : 0 / 0
+ /Users/ehaas/Documents/FHIR/US-Core-R4/source/examples/encounter-example-1 : 0 / 0
+ /Users/ehaas/Documents/FHIR/US-Core-R4/source/examples/episode-summary : 1 / 1
+ /Users/ehaas/Documents/FHIR/US-Core-R4/source/examples/erythrocytes : 0 / 0
+ /Users/ehaas/Documents/FHIR/US-Core-R4/source/examples/example-organization-2 : 0 / 0
+ /Users/ehaas/Documents/FHIR/US-Core-R4/source/examples/goal-1 : 0 / 0
+ /Users/ehaas/Documents/FHIR/US-Core-R4/source/examples/hc1 : 0 / 2
+ /Users/ehaas/Documents/FHIR/US-Core-R4/source/examples/head-circumference : 0 / 0
+ /Users/ehaas/Documents/FHIR/US-Core-R4/source/examples/heart-rate : 0 / 0
+ /Users/ehaas/Documents/FHIR/US-Core-R4/source/examples/height : 0 / 0
+ /Users/ehaas/Documents/FHIR/US-Core-R4/source/examples/hemoglobin : 0 / 0
+ /Users/ehaas/Documents/FHIR/US-Core-R4/source/examples/hl7east : 0 / 0
+ /Users/ehaas/Documents/FHIR/US-Core-R4/source/examples/imm-1 : 1 / 0
+ /Users/ehaas/Documents/FHIR/US-Core-R4/source/examples/length : 0 / 0
+ /Users/ehaas/Documents/FHIR/US-Core-R4/source/examples/mchc : 0 / 0
+ /Users/ehaas/Documents/FHIR/US-Core-R4/source/examples/neutrophils : 0 / 0
+ /Users/ehaas/Documents/FHIR/US-Core-R4/source/examples/oxygen-saturation : 0 / 0
+ /Users/ehaas/Documents/FHIR/US-Core-R4/source/examples/patient-example : 4 / 0
+ /Users/ehaas/Documents/FHIR/US-Core-R4/source/examples/practitioner-1 : 0 / 0
+ /Users/ehaas/Documents/FHIR/US-Core-R4/source/examples/practitioner-2 : 0 / 0
+ /Users/ehaas/Documents/FHIR/US-Core-R4/source/examples/rehab : 0 / 1
+ /Users/ehaas/Documents/FHIR/US-Core-R4/source/examples/respiratory-rate : 0 / 0
+ /Users/ehaas/Documents/FHIR/US-Core-R4/source/examples/saint-luke-w-endpoint : 0 / 2
+ /Users/ehaas/Documents/FHIR/US-Core-R4/source/examples/serum-calcium : 0 / 0
+ /Users/ehaas/Documents/FHIR/US-Core-R4/source/examples/serum-chloride : 0 / 0
+ /Users/ehaas/Documents/FHIR/US-Core-R4/source/examples/serum-co2 : 0 / 0
+ /Users/ehaas/Documents/FHIR/US-Core-R4/source/examples/serum-creatinine : 0 / 0
+ /Users/ehaas/Documents/FHIR/US-Core-R4/source/examples/serum-potassium : 0 / 0
+ /Users/ehaas/Documents/FHIR/US-Core-R4/source/examples/serum-sodium : 0 / 0
+ /Users/ehaas/Documents/FHIR/US-Core-R4/source/examples/serum-total-bilirubin : 0 / 0
+ /Users/ehaas/Documents/FHIR/US-Core-R4/source/examples/some-day-smoker : 0 / 0
+ /Users/ehaas/Documents/FHIR/US-Core-R4/source/examples/temperature : 0 / 0
+ /Users/ehaas/Documents/FHIR/US-Core-R4/source/examples/udi-1 : 0 / 0
+ /Users/ehaas/Documents/FHIR/US-Core-R4/source/examples/urine-bacteria : 0 / 0
+ /Users/ehaas/Documents/FHIR/US-Core-R4/source/examples/urine-bilirubin : 0 / 0
+ /Users/ehaas/Documents/FHIR/US-Core-R4/source/examples/urine-cells : 0 / 0
+ /Users/ehaas/Documents/FHIR/US-Core-R4/source/examples/urine-clarity : 0 / 0
+ /Users/ehaas/Documents/FHIR/US-Core-R4/source/examples/urine-color : 0 / 0
+ /Users/ehaas/Documents/FHIR/US-Core-R4/source/examples/urine-epi-cells : 0 / 0
+ /Users/ehaas/Documents/FHIR/US-Core-R4/source/examples/urine-glucose : 0 / 0
+ /Users/ehaas/Documents/FHIR/US-Core-R4/source/examples/urine-hemoglobin : 0 / 0
+ /Users/ehaas/Documents/FHIR/US-Core-R4/source/examples/urine-ketone : 0 / 0
+ /Users/ehaas/Documents/FHIR/US-Core-R4/source/examples/urine-leukocyte-esterase : 0 / 0
+ /Users/ehaas/Documents/FHIR/US-Core-R4/source/examples/urine-nitrite : 0 / 0
+ /Users/ehaas/Documents/FHIR/US-Core-R4/source/examples/urine-ph : 0 / 0
+ /Users/ehaas/Documents/FHIR/US-Core-R4/source/examples/urine-protein : 0 / 0
+ /Users/ehaas/Documents/FHIR/US-Core-R4/source/examples/urine-rbcs : 0 / 0
+ /Users/ehaas/Documents/FHIR/US-Core-R4/source/examples/urine-sediment : 0 / 0
+ /Users/ehaas/Documents/FHIR/US-Core-R4/source/examples/urine-wbcs : 0 / 0
+ /Users/ehaas/Documents/FHIR/US-Core-R4/source/examples/urobilinogen : 0 / 0
+ /Users/ehaas/Documents/FHIR/US-Core-R4/source/examples/uscore-med1 : 0 / 1
+ /Users/ehaas/Documents/FHIR/US-Core-R4/source/examples/uscore-med2 : 0 / 0
+ /Users/ehaas/Documents/FHIR/US-Core-R4/source/examples/uscore-mo1 : 0 / 0
+ /Users/ehaas/Documents/FHIR/US-Core-R4/source/examples/uscore-mo2 : 0 / 2
+ /Users/ehaas/Documents/FHIR/US-Core-R4/source/examples/uscore-mo3 : 0 / 0
+ /Users/ehaas/Documents/FHIR/US-Core-R4/source/examples/uscore-ms1 : 0 / 1
+ /Users/ehaas/Documents/FHIR/US-Core-R4/source/examples/uscore-ms2 : 0 / 4
+ /Users/ehaas/Documents/FHIR/US-Core-R4/source/examples/uscore-ms3 : 0 / 0
+ /Users/ehaas/Documents/FHIR/US-Core-R4/source/examples/usg : 0 / 0
+ /Users/ehaas/Documents/FHIR/US-Core-R4/source/examples/vitals-panel : 0 / 0
+ /Users/ehaas/Documents/FHIR/US-Core-R4/source/examples/weight : 0 / 0
+ /Users/ehaas/Documents/FHIR/US-Core-R4/source/resources/capabilitystatement-client : 0 / 0
+ /Users/ehaas/Documents/FHIR/US-Core-R4/source/resources/capabilitystatement-server : 0 / 0
+ /Users/ehaas/Documents/FHIR/US-Core-R4/source/resources/codesystem-careplan-category : 0 / 1
+ /Users/ehaas/Documents/FHIR/US-Core-R4/source/resources/codesystem-cdcrec : 0 / 1
+ /Users/ehaas/Documents/FHIR/US-Core-R4/source/resources/codesystem-condition-category : 0 / 1
+ /Users/ehaas/Documents/FHIR/US-Core-R4/source/resources/codesystem-us-core-condition-category : 0 / 1
+ /Users/ehaas/Documents/FHIR/US-Core-R4/source/resources/conceptmap-ndc-cvx : 0 / 1
+ /Users/ehaas/Documents/FHIR/US-Core-R4/source/resources/documentreference-us-core-profile-spreadsheet : 0 / 2
+ /Users/ehaas/Documents/FHIR/US-Core-R4/source/resources/encounter-us-core-profile-spreadsheet : 0 / 2
+ /Users/ehaas/Documents/FHIR/US-Core-R4/source/resources/ig : 0 / 0
+ /Users/ehaas/Documents/FHIR/US-Core-R4/source/resources/new-documentreference-us-core-profile-spreadsheet : 0 / 2
+ /Users/ehaas/Documents/FHIR/US-Core-R4/source/resources/operationdefinition-docref : 0 / 0
+ /Users/ehaas/Documents/FHIR/US-Core-R4/source/resources/practitionerrole-us-core-profile-spreadsheet : 0 / 2
+ /Users/ehaas/Documents/FHIR/US-Core-R4/source/resources/searchparameter-us-core-ethnicity : 0 / 0
+ /Users/ehaas/Documents/FHIR/US-Core-R4/source/resources/searchparameter-us-core-race : 0 / 0
+ /Users/ehaas/Documents/FHIR/US-Core-R4/source/resources/structuredefinition-new-us-core-diagnosticreport : 0 / 1
+ /Users/ehaas/Documents/FHIR/US-Core-R4/source/resources/structuredefinition-us-core-birthsex : 0 / 1
+ /Users/ehaas/Documents/FHIR/US-Core-R4/source/resources/structuredefinition-us-core-direct : 0 / 1
+ /Users/ehaas/Documents/FHIR/US-Core-R4/source/resources/structuredefinition-us-core-ethnicity : 0 / 1
+ /Users/ehaas/Documents/FHIR/US-Core-R4/source/resources/structuredefinition-us-core-profile-link : 0 / 1
+ /Users/ehaas/Documents/FHIR/US-Core-R4/source/resources/structuredefinition-us-core-race : 0 / 1
+ /Users/ehaas/Documents/FHIR/US-Core-R4/source/resources/valueset-detailed-ethnicity : 0 / 1
+ /Users/ehaas/Documents/FHIR/US-Core-R4/source/resources/valueset-detailed-race : 0 / 1
+ /Users/ehaas/Documents/FHIR/US-Core-R4/source/resources/valueset-omb-ethnicity : 0 / 1
+ /Users/ehaas/Documents/FHIR/US-Core-R4/source/resources/valueset-omb-race : 0 / 1
+ /Users/ehaas/Documents/FHIR/US-Core-R4/source/resources/valueset-simple-language : 1 / 1
+ /Users/ehaas/Documents/FHIR/US-Core-R4/source/resources/valueset-us-core-birthsex : 0 / 1
+ /Users/ehaas/Documents/FHIR/US-Core-R4/source/resources/valueset-us-core-careteam-provider-roles : 0 / 1
+ /Users/ehaas/Documents/FHIR/US-Core-R4/source/resources/valueset-us-core-clinical-note-type : 0 / 1
+ /Users/ehaas/Documents/FHIR/US-Core-R4/source/resources/valueset-us-core-condition-category : 0 / 1
+ /Users/ehaas/Documents/FHIR/US-Core-R4/source/resources/valueset-us-core-cvx : 0 / 1
+ /Users/ehaas/Documents/FHIR/US-Core-R4/source/resources/valueset-us-core-diagnosticreport-category : 0 / 1
+ /Users/ehaas/Documents/FHIR/US-Core-R4/source/resources/valueset-us-core-documentreference-categories : 0 / 1
+ /Users/ehaas/Documents/FHIR/US-Core-R4/source/resources/valueset-us-core-encounter-type : 1 / 0
+ /Users/ehaas/Documents/FHIR/US-Core-R4/source/resources/valueset-us-core-medication-codes : 0 / 1
+ /Users/ehaas/Documents/FHIR/US-Core-R4/source/resources/valueset-us-core-narrative-status : 0 / 1
+ /Users/ehaas/Documents/FHIR/US-Core-R4/source/resources/valueset-us-core-ndc-vaccine-codes : 1 / 1
+ /Users/ehaas/Documents/FHIR/US-Core-R4/source/resources/valueset-us-core-observation-ccdasmokingstatus : 0 / 2
+ /Users/ehaas/Documents/FHIR/US-Core-R4/source/resources/valueset-us-core-observation-value-codes : 0 / 1
+ /Users/ehaas/Documents/FHIR/US-Core-R4/source/resources/valueset-us-core-problem : 0 / 1
+ /Users/ehaas/Documents/FHIR/US-Core-R4/source/resources/valueset-us-core-procedure-code : 1 / 2
+ /Users/ehaas/Documents/FHIR/US-Core-R4/source/resources/valueset-us-core-procedure-icd10pcs : 1 / 2
+ /Users/ehaas/Documents/FHIR/US-Core-R4/source/resources/valueset-us-core-provider-role : 0 / 0
+ /Users/ehaas/Documents/FHIR/US-Core-R4/source/resources/valueset-us-core-provider-specialty : 0 / 1
+ /Users/ehaas/Documents/FHIR/US-Core-R4/source/resources/valueset-us-core-usps-state : 0 / 1
+ US  Core AllergyIntolerance Profile : 0 / 2
+ US  Core CareTeam Profile : 0 / 2
+ US  Core Condition (a.k.a Problem) Profile : 0 / 2
+ US  Core Device Profile : 0 / 2
+ US  Core DiagnosticReport Profile : 0 / 2
+ US  Core Goal Profile : 0 / 2
+ US  Core Immunization Profile : 0 / 2
+ US  Core Location Profile : 0 / 2
+ US  Core Medication Profile : 0 / 2
+ US  Core MedicationRequest Profile : 0 / 2
+ US  Core MedicationStatement Profile : 0 / 2
+ US  Core Practitioner Profile : 0 / 2
+ US  Core Procedure Profile : 0 / 2
+ US  Core Results Profile : 0 / 2
+ US  Core Smoking Status Profile : 0 / 2
+ US Core CarePlan Profile : 0 / 2
+ US Core Organization Profile : 0 / 2
+ US Core Patient Profile : 0 / 2
+</table>
+== n/a ==
+ERROR: /Users/ehaas/Documents/FHIR/US-Core-R4/output/Any.html: The html must include a comment "<!--status-bar-->" that marks the insertion point for the status bar
+ERROR: /Users/ehaas/Documents/FHIR/US-Core-R4/output/Any.html: The html must include a div with an attribute igtool="footer" that marks the footer in the template
+ERROR: /Users/ehaas/Documents/FHIR/US-Core-R4/output/StructureDefinition-new-us-core-documentreference.html#/html/head/body/div/div/div/div/div/div/p/a at Line 351, column 111: The link '#.html' for "5 concepts" cannot be resolved (valid targets: [page-content-wrapper, mandatory-data-elements-and-terminology, DocumentReference.content.attachment.size, tbl-snap-inner, DocumentReference.author, DocumentReference.docStatus, DocumentReference.content.modifierExtension, DocumentReference.content.attachment.url, DocumentReference.context.encounter, DocumentReference.content.attachment.creation, DocumentReference.language, DocumentReference.relatesTo.id, DocumentReference.relatesTo.code, DocumentReference.securityLabel, all-tbl-diff, clinical-note-post, note-content, DocumentReference.context.event, tabs-summ, DocumentReference.context.sourcePatientInfo, tbl-summ, stripe, segment-footer, DocumentReference.content, DocumentReference, DocumentReference.context.related, DocumentReference.content.attachment.id, all-tbl-snap-inner, DocumentReference.context.modifierExtension, segment-header, DocumentReference.context.practiceSetting, DocumentReference.description, profile, DocumentReference.relatesTo, tabs-diff, all-tbl-summ, tbl-diff, all-tbl-summ-inner, DocumentReference.extension, DocumentReference.content.attachment.hash, DocumentReference.identifier, examples, DocumentReference.category, DocumentReference.content.attachment.extension, tabs-all, clinical-note, back-to-top, DocumentReference.content.format, tbl-diff-inner, DocumentReference.meta, DocumentReference.relatesTo.extension, segment-navbar, DocumentReference.subject, DocumentReference.context.period, DocumentReference.content.extension, DocumentReference.content.attachment.language, DocumentReference.implicitRules, DocumentReference.contained, DocumentReference.type, publish-box, tabs, segment-post-footer, DocumentReference.content.attachment.data, all-tbl-snap, search, DocumentReference.context, DocumentReference.content.attachment.contentType, downloads, DocumentReference.text, DocumentReference.date, DocumentReference.status, tabs-snap, introduction, tbl-snap, summary, DocumentReference.relatesTo.target, DocumentReference.id, DocumentReference.masterIdentifier, DocumentReference.content.id, DocumentReference.context.extension, DocumentReference.relatesTo.modifierExtension, DocumentReference.context.id, DocumentReference.content.attachment.title, DocumentReference.authenticator, DocumentReference.custodian, DocumentReference.content.attachment, DocumentReference.context.facilityType, all-tbl-diff-inner, project-status, DocumentReference.modifierExtension, summary-of-the-mandatory-requirements])
+ERROR: /Users/ehaas/Documents/FHIR/US-Core-R4/output/StructureDefinition-us-core-diagnosticreport.html#/html/head/body/div/div/div/div/div/div/ul/li/a at Line 352, column 8: The link 'DiagnosticReport-urinalysis.html' for "Diagnosticreport-urinalysis" cannot be resolved
+ERROR: /Users/ehaas/Documents/FHIR/US-Core-R4/output/StructureDefinition-us-core-diagnosticreport.html#/html/head/body/div/div/div/div/div/div/ul/li/a at Line 353, column 8: The link 'DiagnosticReport-metabolic-panel.html' for "Diagnosticreport-metabolic-panel" cannot be resolved
+ERROR: /Users/ehaas/Documents/FHIR/US-Core-R4/output/StructureDefinition-us-core-diagnosticreport.html#/html/head/body/div/div/div/div/div/div/ul/li/a at Line 354, column 8: The link 'DiagnosticReport-cbc.html' for "Diagnosticreport-cbc" cannot be resolved
+== /Users/ehaas/Documents/FHIR/US-Core-R4/source/examples/PractitionerRole_Practitioner_Endpoint_Bundle_Example.xml ==
+WARNING: Bundle/66c8856b-ba11-4876-8aa8-467aad8c11a2: Bundle.entry[1].resource.code: The display "Doctor" is not a valid display for the code {http://nucc.org/provider-taxonomy}261QP2300X - should be one of ["Primary Care"]
+WARNING: Bundle/66c8856b-ba11-4876-8aa8-467aad8c11a2: Bundle.entry[1].resource.code.coding: The display "Doctor" is not a valid display for the code {http://nucc.org/provider-taxonomy}261QP2300X - should be one of ["Primary Care"]
+== /Users/ehaas/Documents/FHIR/US-Core-R4/source/examples/acme-lab.xml ==
+== /Users/ehaas/Documents/FHIR/US-Core-R4/source/examples/allergyintolerance-example.xml ==
+ERROR: AllergyIntolerance/example: AllergyIntolerance.clinicalStatus: None of the codes provided are in the value set http://hl7.org/fhir/ValueSet/allergyintolerance-clinical (http://hl7.org/fhir/ValueSet/allergyintolerance-clinical, and a code from this value set is required) (codes = null#active)
+ERROR: AllergyIntolerance/example: AllergyIntolerance.verificationStatus: None of the codes provided are in the value set http://hl7.org/fhir/ValueSet/allergyintolerance-verification (http://hl7.org/fhir/ValueSet/allergyintolerance-verification, and a code from this value set is required) (codes = null#confirmed)
+WARNING: AllergyIntolerance/example: AllergyIntolerance.code: ValueSet https://vsac.nlm.nih.gov/valueset/2.16.840.1.113762.1.4.1186.8/expansion not found
+== /Users/ehaas/Documents/FHIR/US-Core-R4/source/examples/blood-glucose.json ==
+== /Users/ehaas/Documents/FHIR/US-Core-R4/source/examples/blood-pressure.json ==
+== /Users/ehaas/Documents/FHIR/US-Core-R4/source/examples/bmi.json ==
+== /Users/ehaas/Documents/FHIR/US-Core-R4/source/examples/bp-data-absent.json ==
+== /Users/ehaas/Documents/FHIR/US-Core-R4/source/examples/bun.json ==
+== /Users/ehaas/Documents/FHIR/US-Core-R4/source/examples/careteam-example.xml ==
+WARNING: CareTeam/example: CareTeam.participant[1].role: The display "Allopathic &amp; Osteopathic Physicians:Internal Medicine:Cardiovascular Disease" is not a valid display for the code {http://nucc.org/provider-taxonomy}207RC0000X - should be one of ["Cardiovascular Disease"]
+WARNING: CareTeam/example: CareTeam.participant[1].role.coding: The display "Allopathic &amp; Osteopathic Physicians:Internal Medicine:Cardiovascular Disease" is not a valid display for the code {http://nucc.org/provider-taxonomy}207RC0000X - should be one of ["Cardiovascular Disease"]
+WARNING: CareTeam/example: CareTeam.participant[2].role: The display "Allopathic &amp; Osteopathic Physicians:General Practice" is not a valid display for the code {http://nucc.org/provider-taxonomy}208D00000X - should be one of ["General Practice"]
+WARNING: CareTeam/example: CareTeam.participant[2].role.coding: The display "Allopathic &amp; Osteopathic Physicians:General Practice" is not a valid display for the code {http://nucc.org/provider-taxonomy}208D00000X - should be one of ["General Practice"]
+== /Users/ehaas/Documents/FHIR/US-Core-R4/source/examples/colonoscopy.xml ==
+== /Users/ehaas/Documents/FHIR/US-Core-R4/source/examples/condition-example.xml ==
+WARNING: Condition/example: Condition: A code in Condition.category SHOULD be from US Core Condition Category Codes value set. [where(category in 'http://hl7.org/fhir/us/core-r4/ValueSet/us-core-condition-category').exists()]
+== /Users/ehaas/Documents/FHIR/US-Core-R4/source/examples/encounter-1036.xml ==
+== /Users/ehaas/Documents/FHIR/US-Core-R4/source/examples/encounter-example-1.xml ==
+== /Users/ehaas/Documents/FHIR/US-Core-R4/source/examples/episode-summary.xml ==
+ERROR: DocumentReference/episode-summary: DocumentReference.category.coding: Error null validating Coding
+WARNING: DocumentReference/episode-summary: DocumentReference.content.format: The Coding provided is not in the value set http://hl7.org/fhir/ValueSet/formatcodes (http://hl7.org/fhir/ValueSet/formatcodes, and a code should come from this value set unless it has no suitable code) (error message = The code system "urn:oid:1.3.6.1.4.1.19376.1.2.3" is not known; The code provided (urn:oid:1.3.6.1.4.1.19376.1.2.3#urn:hl7-org:sdwg:ccda-structuredBody:2.1) is not  valid in the value set DocumentReferenceFormatCodeSet)
+== /Users/ehaas/Documents/FHIR/US-Core-R4/source/examples/erythrocytes.json ==
+== /Users/ehaas/Documents/FHIR/US-Core-R4/source/examples/example-organization-2.xml ==
+== /Users/ehaas/Documents/FHIR/US-Core-R4/source/examples/goal-1.xml ==
+== /Users/ehaas/Documents/FHIR/US-Core-R4/source/examples/hc1.xml ==
+WARNING: Condition/hc1: Condition: A code in Condition.category SHOULD be from US Core Condition Category Codes value set. [where(category in 'http://hl7.org/fhir/us/core-r4/ValueSet/us-core-condition-category').exists()]
+WARNING: Condition/hc1: Condition.code: No code provided, and a code should be provided from the value set http://hl7.org/fhir/us/core-r4/ValueSet/us-core-problem (http://hl7.org/fhir/us/core-r4/ValueSet/us-core-problem
+== /Users/ehaas/Documents/FHIR/US-Core-R4/source/examples/head-circumference.json ==
+== /Users/ehaas/Documents/FHIR/US-Core-R4/source/examples/heart-rate.json ==
+== /Users/ehaas/Documents/FHIR/US-Core-R4/source/examples/height.json ==
+== /Users/ehaas/Documents/FHIR/US-Core-R4/source/examples/hemoglobin.json ==
+== /Users/ehaas/Documents/FHIR/US-Core-R4/source/examples/hl7east.xml ==
+== /Users/ehaas/Documents/FHIR/US-Core-R4/source/examples/imm-1.json ==
+ERROR: Immunization/imm-1: Immunization.vaccineCode: None of the codes provided are in the maximum value set http://hl7.org/fhir/us/core-r4/ValueSet/us-core-cvx (http://hl7.org/fhir/us/core-r4/ValueSet/us-core-cvx, and a code from this value set is required) (codes = http://terminology.hl7.org/CodeSystem/sid/cvx#158, http://terminology.hl7.org/CodeSystem/sid/ndc#49281-0623-78)
+== /Users/ehaas/Documents/FHIR/US-Core-R4/source/examples/length.json ==
+== /Users/ehaas/Documents/FHIR/US-Core-R4/source/examples/mchc.json ==
+== /Users/ehaas/Documents/FHIR/US-Core-R4/source/examples/neutrophils.json ==
+== /Users/ehaas/Documents/FHIR/US-Core-R4/source/examples/oxygen-saturation.json ==
+== /Users/ehaas/Documents/FHIR/US-Core-R4/source/examples/patient-example.xml ==
+ERROR: Patient/example: Patient.extension[1].extension[4].valueCoding: The Coding provided is not in the value set http://hl7.org/fhir/us/core-r4/ValueSet/detailed-race (http://hl7.org/fhir/us/core-r4/ValueSet/detailed-race, and a code is required from this value set) (error message = The code system "urn:oid:2.16.840.1.113883.6.238" is not known; The code provided (urn:oid:2.16.840.1.113883.6.238#1586-7) is not  valid in the value set US_Core_Detailed_Race)
+ERROR: Patient/example: Patient.extension[1].extension[5].valueCoding: The Coding provided is not in the value set http://hl7.org/fhir/us/core-r4/ValueSet/detailed-race (http://hl7.org/fhir/us/core-r4/ValueSet/detailed-race, and a code is required from this value set) (error message = The code system "urn:oid:2.16.840.1.113883.6.238" is not known; The code provided (urn:oid:2.16.840.1.113883.6.238#2036-2) is not  valid in the value set US_Core_Detailed_Race)
+ERROR: Patient/example: Patient.extension[2].extension[2].valueCoding: The Coding provided is not in the value set http://hl7.org/fhir/us/core-r4/ValueSet/detailed-ethnicity (http://hl7.org/fhir/us/core-r4/ValueSet/detailed-ethnicity, and a code is required from this value set) (error message = The code system "urn:oid:2.16.840.1.113883.6.238" is not known; The code provided (urn:oid:2.16.840.1.113883.6.238#2184-0) is not  valid in the value set UsCoreDetailedEthnicity)
+ERROR: Patient/example: Patient.extension[2].extension[3].valueCoding: The Coding provided is not in the value set http://hl7.org/fhir/us/core-r4/ValueSet/detailed-ethnicity (http://hl7.org/fhir/us/core-r4/ValueSet/detailed-ethnicity, and a code is required from this value set) (error message = The code system "urn:oid:2.16.840.1.113883.6.238" is not known; The code provided (urn:oid:2.16.840.1.113883.6.238#2148-5) is not  valid in the value set UsCoreDetailedEthnicity)
+== /Users/ehaas/Documents/FHIR/US-Core-R4/source/examples/practitioner-1.xml ==
+== /Users/ehaas/Documents/FHIR/US-Core-R4/source/examples/practitioner-2.xml ==
+== /Users/ehaas/Documents/FHIR/US-Core-R4/source/examples/rehab.xml ==
+WARNING: Procedure/rehab: Procedure.code: The code system "http://www.icd10data.com/icd10pcs" is not known
+== /Users/ehaas/Documents/FHIR/US-Core-R4/source/examples/respiratory-rate.json ==
+== /Users/ehaas/Documents/FHIR/US-Core-R4/source/examples/saint-luke-w-endpoint.xml ==
+WARNING: Organization/saint-luke-w-endpoint: Organization.contained: A resource should have narrative for robust management [text.div.exists()]
+WARNING: Organization/saint-luke-w-endpoint: Organization.endpoint.contained: A resource should have narrative for robust management [text.div.exists()]
+== /Users/ehaas/Documents/FHIR/US-Core-R4/source/examples/serum-calcium.json ==
+== /Users/ehaas/Documents/FHIR/US-Core-R4/source/examples/serum-chloride.json ==
+== /Users/ehaas/Documents/FHIR/US-Core-R4/source/examples/serum-co2.json ==
+== /Users/ehaas/Documents/FHIR/US-Core-R4/source/examples/serum-creatinine.json ==
+== /Users/ehaas/Documents/FHIR/US-Core-R4/source/examples/serum-potassium.json ==
+== /Users/ehaas/Documents/FHIR/US-Core-R4/source/examples/serum-sodium.json ==
+== /Users/ehaas/Documents/FHIR/US-Core-R4/source/examples/serum-total-bilirubin.json ==
+== /Users/ehaas/Documents/FHIR/US-Core-R4/source/examples/some-day-smoker.json ==
+== /Users/ehaas/Documents/FHIR/US-Core-R4/source/examples/temperature.json ==
+== /Users/ehaas/Documents/FHIR/US-Core-R4/source/examples/udi-1.xml ==
+== /Users/ehaas/Documents/FHIR/US-Core-R4/source/examples/urine-bacteria.json ==
+== /Users/ehaas/Documents/FHIR/US-Core-R4/source/examples/urine-bilirubin.json ==
+== /Users/ehaas/Documents/FHIR/US-Core-R4/source/examples/urine-cells.json ==
+== /Users/ehaas/Documents/FHIR/US-Core-R4/source/examples/urine-clarity.json ==
+== /Users/ehaas/Documents/FHIR/US-Core-R4/source/examples/urine-color.json ==
+== /Users/ehaas/Documents/FHIR/US-Core-R4/source/examples/urine-epi-cells.json ==
+== /Users/ehaas/Documents/FHIR/US-Core-R4/source/examples/urine-glucose.json ==
+== /Users/ehaas/Documents/FHIR/US-Core-R4/source/examples/urine-hemoglobin.json ==
+== /Users/ehaas/Documents/FHIR/US-Core-R4/source/examples/urine-ketone.json ==
+== /Users/ehaas/Documents/FHIR/US-Core-R4/source/examples/urine-leukocyte-esterase.json ==
+== /Users/ehaas/Documents/FHIR/US-Core-R4/source/examples/urine-nitrite.json ==
+== /Users/ehaas/Documents/FHIR/US-Core-R4/source/examples/urine-ph.json ==
+== /Users/ehaas/Documents/FHIR/US-Core-R4/source/examples/urine-protein.json ==
+== /Users/ehaas/Documents/FHIR/US-Core-R4/source/examples/urine-rbcs.json ==
+== /Users/ehaas/Documents/FHIR/US-Core-R4/source/examples/urine-sediment.json ==
+== /Users/ehaas/Documents/FHIR/US-Core-R4/source/examples/urine-wbcs.json ==
+== /Users/ehaas/Documents/FHIR/US-Core-R4/source/examples/urobilinogen.json ==
+== /Users/ehaas/Documents/FHIR/US-Core-R4/source/examples/uscore-med1.xml ==
+WARNING: Medication/uscore-med1: Medication.code.coding: The display "Lisinopril 10 MG Oral Tablet [Prinivil]" is not a valid display for the code {http://www.nlm.nih.gov/research/umls/rxnorm}206765 - should be one of ["Prinivil 10 MG Oral Tablet","Prinivil 10 MG Oral Tablet"]
+== /Users/ehaas/Documents/FHIR/US-Core-R4/source/examples/uscore-med2.xml ==
+== /Users/ehaas/Documents/FHIR/US-Core-R4/source/examples/uscore-mo1.xml ==
+== /Users/ehaas/Documents/FHIR/US-Core-R4/source/examples/uscore-mo2.xml ==
+WARNING: MedicationRequest/uscore-mo2: MedicationRequest.contained: A resource should have narrative for robust management [text.div.exists()]
+WARNING: MedicationRequest/uscore-mo2: MedicationRequest.medicationReference.contained: A resource should have narrative for robust management [text.div.exists()]
+== /Users/ehaas/Documents/FHIR/US-Core-R4/source/examples/uscore-mo3.xml ==
+== /Users/ehaas/Documents/FHIR/US-Core-R4/source/examples/uscore-ms1.xml ==
+WARNING: MedicationStatement/uscore-ms1: MedicationStatement.medicationCodeableConcept.coding: The display "Lisinopril 10 MG Oral Tablet [Prinivil]" is not a valid display for the code {http://www.nlm.nih.gov/research/umls/rxnorm}206765 - should be one of ["Prinivil 10 MG Oral Tablet","Prinivil 10 MG Oral Tablet"]
+== /Users/ehaas/Documents/FHIR/US-Core-R4/source/examples/uscore-ms2.xml ==
+WARNING: MedicationStatement/uscore-ms2: MedicationStatement.contained: A resource should have narrative for robust management [text.div.exists()]
+WARNING: MedicationStatement/uscore-ms2: MedicationStatement.contained.code.coding: The display "Lisinopril 10 MG Oral Tablet [Prinivil]" is not a valid display for the code {http://www.nlm.nih.gov/research/umls/rxnorm}206765 - should be one of ["Prinivil 10 MG Oral Tablet","Prinivil 10 MG Oral Tablet"]
+WARNING: MedicationStatement/uscore-ms2: MedicationStatement.medicationReference.contained: A resource should have narrative for robust management [text.div.exists()]
+WARNING: MedicationStatement/uscore-ms2: MedicationStatement.medicationReference.contained.code.coding: The display "Lisinopril 10 MG Oral Tablet [Prinivil]" is not a valid display for the code {http://www.nlm.nih.gov/research/umls/rxnorm}206765 - should be one of ["Prinivil 10 MG Oral Tablet","Prinivil 10 MG Oral Tablet"]
+== /Users/ehaas/Documents/FHIR/US-Core-R4/source/examples/uscore-ms3.xml ==
+== /Users/ehaas/Documents/FHIR/US-Core-R4/source/examples/usg.json ==
+== /Users/ehaas/Documents/FHIR/US-Core-R4/source/examples/vitals-panel.json ==
+== /Users/ehaas/Documents/FHIR/US-Core-R4/source/examples/weight.json ==
+== /Users/ehaas/Documents/FHIR/US-Core-R4/source/resources/capabilitystatement-client.xml ==
+== /Users/ehaas/Documents/FHIR/US-Core-R4/source/resources/capabilitystatement-server.xml ==
+== /Users/ehaas/Documents/FHIR/US-Core-R4/source/resources/codesystem-careplan-category.xml ==
+WARNING: CodeSystem/careplan-category: CodeSystem: A resource should have narrative for robust management [text.div.exists()]
+== /Users/ehaas/Documents/FHIR/US-Core-R4/source/resources/codesystem-cdcrec.xml ==
+WARNING: CodeSystem/cdcrec: CodeSystem: A resource should have narrative for robust management [text.div.exists()]
+== /Users/ehaas/Documents/FHIR/US-Core-R4/source/resources/codesystem-condition-category.xml ==
+WARNING: CodeSystem/condition-category: CodeSystem: A resource should have narrative for robust management [text.div.exists()]
+== /Users/ehaas/Documents/FHIR/US-Core-R4/source/resources/codesystem-us-core-condition-category.xml ==
+WARNING: CodeSystem/us-core-documentreference-category: CodeSystem: A resource should have narrative for robust management [text.div.exists()]
+== /Users/ehaas/Documents/FHIR/US-Core-R4/source/resources/conceptmap-ndc-cvx.xml ==
+WARNING: ConceptMap/ndc-cvx: ConceptMap: A resource should have narrative for robust management [text.div.exists()]
+== /Users/ehaas/Documents/FHIR/US-Core-R4/source/resources/documentreference-us-core-profile-spreadsheet.xml ==
+WARNING: StructureDefinition/us-core-documentreference: StructureDefinition: A resource should have narrative for robust management [text.div.exists()]
+WARNING: http://hl7.org/fhir/us/core-r4/StructureDefinition/us-core-documentreference: Profiles SHOULD state the FHIR Version on which they are based
+== /Users/ehaas/Documents/FHIR/US-Core-R4/source/resources/encounter-us-core-profile-spreadsheet.xml ==
+WARNING: StructureDefinition/us-core-encounter: StructureDefinition: A resource should have narrative for robust management [text.div.exists()]
+WARNING: http://hl7.org/fhir/us/core-r4/StructureDefinition/us-core-encounter: Profiles SHOULD state the FHIR Version on which they are based
+== /Users/ehaas/Documents/FHIR/US-Core-R4/source/resources/ig.xml ==
+== /Users/ehaas/Documents/FHIR/US-Core-R4/source/resources/new-documentreference-us-core-profile-spreadsheet.xml ==
+WARNING: StructureDefinition/new-us-core-documentreference: StructureDefinition: A resource should have narrative for robust management [text.div.exists()]
+WARNING: http://hl7.org/fhir/us/core-r4/StructureDefinition/new-us-core-documentreference: Profiles SHOULD state the FHIR Version on which they are based
+== /Users/ehaas/Documents/FHIR/US-Core-R4/source/resources/operationdefinition-docref.xml ==
+== /Users/ehaas/Documents/FHIR/US-Core-R4/source/resources/practitionerrole-us-core-profile-spreadsheet.xml ==
+WARNING: StructureDefinition/us-core-practitionerrole: StructureDefinition: A resource should have narrative for robust management [text.div.exists()]
+WARNING: http://hl7.org/fhir/us/core-r4/StructureDefinition/us-core-practitionerrole: Profiles SHOULD state the FHIR Version on which they are based
+== /Users/ehaas/Documents/FHIR/US-Core-R4/source/resources/searchparameter-us-core-ethnicity.xml ==
+== /Users/ehaas/Documents/FHIR/US-Core-R4/source/resources/searchparameter-us-core-race.xml ==
+== /Users/ehaas/Documents/FHIR/US-Core-R4/source/resources/structuredefinition-new-us-core-diagnosticreport.xml ==
+WARNING: StructureDefinition/new-us-core-diagnosticreport: StructureDefinition: A resource should have narrative for robust management [text.div.exists()]
+== /Users/ehaas/Documents/FHIR/US-Core-R4/source/resources/structuredefinition-us-core-birthsex.xml ==
+WARNING: StructureDefinition/us-core-birthsex: StructureDefinition: A resource should have narrative for robust management [text.div.exists()]
+== /Users/ehaas/Documents/FHIR/US-Core-R4/source/resources/structuredefinition-us-core-direct.xml ==
+WARNING: StructureDefinition/us-core-direct: StructureDefinition: A resource should have narrative for robust management [text.div.exists()]
+== /Users/ehaas/Documents/FHIR/US-Core-R4/source/resources/structuredefinition-us-core-ethnicity.xml ==
+WARNING: StructureDefinition/us-core-ethnicity: StructureDefinition: A resource should have narrative for robust management [text.div.exists()]
+== /Users/ehaas/Documents/FHIR/US-Core-R4/source/resources/structuredefinition-us-core-profile-link.xml ==
+WARNING: StructureDefinition/us-core-profile-link: StructureDefinition: A resource should have narrative for robust management [text.div.exists()]
+== /Users/ehaas/Documents/FHIR/US-Core-R4/source/resources/structuredefinition-us-core-race.xml ==
+WARNING: StructureDefinition/us-core-race: StructureDefinition: A resource should have narrative for robust management [text.div.exists()]
+== /Users/ehaas/Documents/FHIR/US-Core-R4/source/resources/valueset-detailed-ethnicity.xml ==
+WARNING: ValueSet/detailed-ethnicity: ValueSet: A resource should have narrative for robust management [text.div.exists()]
+== /Users/ehaas/Documents/FHIR/US-Core-R4/source/resources/valueset-detailed-race.xml ==
+WARNING: ValueSet/detailed-race: ValueSet: A resource should have narrative for robust management [text.div.exists()]
+== /Users/ehaas/Documents/FHIR/US-Core-R4/source/resources/valueset-omb-ethnicity.xml ==
+WARNING: ValueSet/omb-ethnicity-category: ValueSet: A resource should have narrative for robust management [text.div.exists()]
+== /Users/ehaas/Documents/FHIR/US-Core-R4/source/resources/valueset-omb-race.xml ==
+WARNING: ValueSet/omb-race-category: ValueSet: A resource should have narrative for robust management [text.div.exists()]
+== /Users/ehaas/Documents/FHIR/US-Core-R4/source/resources/valueset-simple-language.xml ==
+WARNING: ValueSet/simple-language: ValueSet: A resource should have narrative for robust management [text.div.exists()]
+ERROR: simple-language: Error from server: Language valuesets cannot be expanded as they are based on a grammar
+== /Users/ehaas/Documents/FHIR/US-Core-R4/source/resources/valueset-us-core-birthsex.xml ==
+WARNING: ValueSet/us-core-birthsex: ValueSet: A resource should have narrative for robust management [text.div.exists()]
+== /Users/ehaas/Documents/FHIR/US-Core-R4/source/resources/valueset-us-core-careteam-provider-roles.xml ==
+WARNING: ValueSet/us-core-careteam-provider-roles: ValueSet: A resource should have narrative for robust management [text.div.exists()]
+== /Users/ehaas/Documents/FHIR/US-Core-R4/source/resources/valueset-us-core-clinical-note-type.xml ==
+WARNING: ValueSet/us-core-clinical-note-type: ValueSet: A resource should have narrative for robust management [text.div.exists()]
+== /Users/ehaas/Documents/FHIR/US-Core-R4/source/resources/valueset-us-core-condition-category.xml ==
+WARNING: ValueSet/us-core-condition-category: ValueSet: A resource should have narrative for robust management [text.div.exists()]
+== /Users/ehaas/Documents/FHIR/US-Core-R4/source/resources/valueset-us-core-cvx.xml ==
+WARNING: ValueSet/us-core-cvx: ValueSet: A resource should have narrative for robust management [text.div.exists()]
+== /Users/ehaas/Documents/FHIR/US-Core-R4/source/resources/valueset-us-core-diagnosticreport-category.xml ==
+WARNING: ValueSet/us-core-diagnosticreport-category: ValueSet: A resource should have narrative for robust management [text.div.exists()]
+== /Users/ehaas/Documents/FHIR/US-Core-R4/source/resources/valueset-us-core-documentreference-categories.xml ==
+WARNING: ValueSet/us-core-documentreference-category: ValueSet: A resource should have narrative for robust management [text.div.exists()]
+== /Users/ehaas/Documents/FHIR/US-Core-R4/source/resources/valueset-us-core-encounter-type.xml ==
+ERROR: us-core-encounter-type: Error from server: Unable to provide support for code system http://www.ama-assn.org/go/cpt
+== /Users/ehaas/Documents/FHIR/US-Core-R4/source/resources/valueset-us-core-medication-codes.xml ==
+WARNING: ValueSet/us-core-medication-codes: ValueSet.meta.profile[0]: StructureDefinition reference "http://hl7.org/fhir/StructureDefinition/valueset-shareable-definition" could not be resolved
+== /Users/ehaas/Documents/FHIR/US-Core-R4/source/resources/valueset-us-core-narrative-status.xml ==
+WARNING: ValueSet/us-core-narrative-status: ValueSet: A resource should have narrative for robust management [text.div.exists()]
+== /Users/ehaas/Documents/FHIR/US-Core-R4/source/resources/valueset-us-core-ndc-vaccine-codes.xml ==
+WARNING: ValueSet/us-core-ndc-vaccine-codes: ValueSet: A resource should have narrative for robust management [text.div.exists()]
+ERROR: us-core-ndc-vaccine-codes: Error from server: Unable to provide support for code system http://hl7.org/fhir/sid/ndc
+== /Users/ehaas/Documents/FHIR/US-Core-R4/source/resources/valueset-us-core-observation-ccdasmokingstatus.xml ==
+WARNING: ValueSet/us-core-observation-ccdasmokingstatus: ValueSet.meta.profile[0]: StructureDefinition reference "http://hl7.org/fhir/StructureDefinition/valueset-shareable-definition" could not be resolved
+WARNING: ValueSet/us-core-observation-ccdasmokingstatus: ValueSet: A resource should have narrative for robust management [text.div.exists()]
+== /Users/ehaas/Documents/FHIR/US-Core-R4/source/resources/valueset-us-core-observation-value-codes.xml ==
+WARNING: ValueSet/us-core-observation-value-codes: ValueSet: A resource should have narrative for robust management [text.div.exists()]
+== /Users/ehaas/Documents/FHIR/US-Core-R4/source/resources/valueset-us-core-problem.xml ==
+WARNING: ValueSet/us-core-problem: ValueSet.meta.profile[0]: StructureDefinition reference "http://hl7.org/fhir/StructureDefinition/valueset-shareable-definition" could not be resolved
+== /Users/ehaas/Documents/FHIR/US-Core-R4/source/resources/valueset-us-core-procedure-code.xml ==
+WARNING: ValueSet/us-core-procedure-code: ValueSet.meta.profile[0]: StructureDefinition reference "http://hl7.org/fhir/StructureDefinition/valueset-shareable-definition" could not be resolved
+WARNING: ValueSet/us-core-procedure-code: ValueSet: A resource should have narrative for robust management [text.div.exists()]
+ERROR: us-core-procedure-code: Error from server: Unable to provide support for code system http://www.ama-assn.org/go/cpt
+== /Users/ehaas/Documents/FHIR/US-Core-R4/source/resources/valueset-us-core-procedure-icd10pcs.xml ==
+WARNING: ValueSet/us-core-procedure-icd10pcs: ValueSet.meta.profile[0]: StructureDefinition reference "http://hl7.org/fhir/StructureDefinition/valueset-shareable-definition" could not be resolved
+WARNING: ValueSet/us-core-procedure-icd10pcs: ValueSet: A resource should have narrative for robust management [text.div.exists()]
+ERROR: us-core-procedure-icd10pcs: Error from server: Unable to provide support for code system http://www.icd10data.com/icd10pcs
+== /Users/ehaas/Documents/FHIR/US-Core-R4/source/resources/valueset-us-core-provider-role.xml ==
+== /Users/ehaas/Documents/FHIR/US-Core-R4/source/resources/valueset-us-core-provider-specialty.xml ==
+WARNING: ValueSet/us-core-provider-specialty: ValueSet: A resource should have narrative for robust management [text.div.exists()]
+== /Users/ehaas/Documents/FHIR/US-Core-R4/source/resources/valueset-us-core-usps-state.xml ==
+WARNING: ValueSet/us-core-usps-state: ValueSet: A resource should have narrative for robust management [text.div.exists()]
+== /Users/ehaas/Documents/FHIR/US-Core-R4/source/resources/allergyintolerance-us-core-profile-spreadsheet.xml ==
+WARNING: StructureDefinition/us-core-allergyintolerance: StructureDefinition: A resource should have narrative for robust management [text.div.exists()]
+WARNING: http://hl7.org/fhir/us/core-r4/StructureDefinition/us-core-allergyintolerance: Profiles SHOULD state the FHIR Version on which they are based
+== /Users/ehaas/Documents/FHIR/US-Core-R4/source/resources/careteam-us-core-profile-spreadsheet.xml ==
+WARNING: StructureDefinition/us-core-careteam: StructureDefinition: A resource should have narrative for robust management [text.div.exists()]
+WARNING: http://hl7.org/fhir/us/core-r4/StructureDefinition/us-core-careteam: Profiles SHOULD state the FHIR Version on which they are based
+== /Users/ehaas/Documents/FHIR/US-Core-R4/source/resources/condition-us-core-profile-spreadsheet.xml ==
+WARNING: StructureDefinition/us-core-condition: StructureDefinition: A resource should have narrative for robust management [text.div.exists()]
+WARNING: http://hl7.org/fhir/us/core-r4/StructureDefinition/us-core-condition: Profiles SHOULD state the FHIR Version on which they are based
+== /Users/ehaas/Documents/FHIR/US-Core-R4/source/resources/device-us-core-profile-spreadsheet.xml ==
+WARNING: StructureDefinition/us-core-device: StructureDefinition: A resource should have narrative for robust management [text.div.exists()]
+WARNING: http://hl7.org/fhir/us/core-r4/StructureDefinition/us-core-device: Profiles SHOULD state the FHIR Version on which they are based
+== /Users/ehaas/Documents/FHIR/US-Core-R4/source/resources/diagnosticreport-us-core-profile-spreadsheet.xml ==
+WARNING: StructureDefinition/us-core-diagnosticreport: StructureDefinition: A resource should have narrative for robust management [text.div.exists()]
+WARNING: http://hl7.org/fhir/us/core-r4/StructureDefinition/us-core-diagnosticreport: Profiles SHOULD state the FHIR Version on which they are based
+== /Users/ehaas/Documents/FHIR/US-Core-R4/source/resources/goal-us-core-profile-spreadsheet.xml ==
+WARNING: StructureDefinition/us-core-goal: StructureDefinition: A resource should have narrative for robust management [text.div.exists()]
+WARNING: http://hl7.org/fhir/us/core-r4/StructureDefinition/us-core-goal: Profiles SHOULD state the FHIR Version on which they are based
+== /Users/ehaas/Documents/FHIR/US-Core-R4/source/resources/immunization-us-core-profile-spreadsheet.xml ==
+WARNING: StructureDefinition/us-core-immunization: StructureDefinition: A resource should have narrative for robust management [text.div.exists()]
+WARNING: http://hl7.org/fhir/us/core-r4/StructureDefinition/us-core-immunization: Profiles SHOULD state the FHIR Version on which they are based
+== /Users/ehaas/Documents/FHIR/US-Core-R4/source/resources/location-us-core-profile-spreadsheet.xml ==
+WARNING: StructureDefinition/us-core-location: StructureDefinition: A resource should have narrative for robust management [text.div.exists()]
+WARNING: http://hl7.org/fhir/us/core-r4/StructureDefinition/us-core-location: Profiles SHOULD state the FHIR Version on which they are based
+== /Users/ehaas/Documents/FHIR/US-Core-R4/source/resources/medication-us-core-profile-spreadsheet.xml ==
+WARNING: StructureDefinition/us-core-medication: StructureDefinition: A resource should have narrative for robust management [text.div.exists()]
+WARNING: http://hl7.org/fhir/us/core-r4/StructureDefinition/us-core-medication: Profiles SHOULD state the FHIR Version on which they are based
+== /Users/ehaas/Documents/FHIR/US-Core-R4/source/resources/medicationrequest-us-core-profile-spreadsheet.xml ==
+WARNING: StructureDefinition/us-core-medicationrequest: StructureDefinition: A resource should have narrative for robust management [text.div.exists()]
+WARNING: http://hl7.org/fhir/us/core-r4/StructureDefinition/us-core-medicationrequest: Profiles SHOULD state the FHIR Version on which they are based
+== /Users/ehaas/Documents/FHIR/US-Core-R4/source/resources/medicationstatement-us-core-profile-spreadsheet.xml ==
+WARNING: StructureDefinition/us-core-medicationstatement: StructureDefinition: A resource should have narrative for robust management [text.div.exists()]
+WARNING: http://hl7.org/fhir/us/core-r4/StructureDefinition/us-core-medicationstatement: Profiles SHOULD state the FHIR Version on which they are based
+== /Users/ehaas/Documents/FHIR/US-Core-R4/source/resources/practitioner-us-core-profile-spreadsheet.xml ==
+WARNING: StructureDefinition/us-core-practitioner: StructureDefinition: A resource should have narrative for robust management [text.div.exists()]
+WARNING: http://hl7.org/fhir/us/core-r4/StructureDefinition/us-core-practitioner: Profiles SHOULD state the FHIR Version on which they are based
+== /Users/ehaas/Documents/FHIR/US-Core-R4/source/resources/procedure-us-core-profile-spreadsheet.xml ==
+WARNING: StructureDefinition/us-core-procedure: StructureDefinition: A resource should have narrative for robust management [text.div.exists()]
+WARNING: http://hl7.org/fhir/us/core-r4/StructureDefinition/us-core-procedure: Profiles SHOULD state the FHIR Version on which they are based
+== /Users/ehaas/Documents/FHIR/US-Core-R4/source/resources/observation-us-core-results-profile-spreadsheet.xml ==
+WARNING: StructureDefinition/us-core-observationresults: StructureDefinition: A resource should have narrative for robust management [text.div.exists()]
+WARNING: http://hl7.org/fhir/us/core-r4/StructureDefinition/us-core-observationresults: Profiles SHOULD state the FHIR Version on which they are based
+== /Users/ehaas/Documents/FHIR/US-Core-R4/source/resources/observation-us-core-smokingstatus-profile-spreadsheet.xml ==
+WARNING: StructureDefinition/us-core-smokingstatus: StructureDefinition: A resource should have narrative for robust management [text.div.exists()]
+WARNING: http://hl7.org/fhir/us/core-r4/StructureDefinition/us-core-smokingstatus: Profiles SHOULD state the FHIR Version on which they are based
+== /Users/ehaas/Documents/FHIR/US-Core-R4/source/resources/careplan-us-core-profile-spreadsheet.xml ==
+WARNING: StructureDefinition/us-core-careplan: StructureDefinition: A resource should have narrative for robust management [text.div.exists()]
+WARNING: http://hl7.org/fhir/us/core-r4/StructureDefinition/us-core-careplan: Profiles SHOULD state the FHIR Version on which they are based
+== /Users/ehaas/Documents/FHIR/US-Core-R4/source/resources/organization-us-core-profile-spreadsheet.xml ==
+WARNING: StructureDefinition/us-core-organization: StructureDefinition: A resource should have narrative for robust management [text.div.exists()]
+WARNING: http://hl7.org/fhir/us/core-r4/StructureDefinition/us-core-organization: Profiles SHOULD state the FHIR Version on which they are based
+== /Users/ehaas/Documents/FHIR/US-Core-R4/source/resources/patient-us-core-profile-spreadsheet.xml ==
+WARNING: StructureDefinition/us-core-patient: StructureDefinition: A resource should have narrative for robust management [text.div.exists()]
+WARNING: http://hl7.org/fhir/us/core-r4/StructureDefinition/us-core-patient: Profiles SHOULD state the FHIR Version on which they are based
